@@ -1,6 +1,6 @@
 name: r2s Lean版openwrt minimal 
 
-#on:
+on:
   push:
     branches:
       - master
